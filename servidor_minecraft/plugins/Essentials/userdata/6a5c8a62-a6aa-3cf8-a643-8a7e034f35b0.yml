@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.106.169.53
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1739242648864
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739221988051
+  login: 1739242569469
+  kits:
+    tools: 1739078313167
+money: '11933.5703999999999229'
+logoutlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: -434.6852444341863
+  y: 63.0
+  z: 45.81744585920237
+  yaw: -40.53887939453125
+  pitch: -10.736808776855469
+last-account-name: ElKeitoGG
+lastlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: -417.4609346788786
+  y: 63.0
+  z: 47.45632600836021
+  yaw: 11.160033226013184
+  pitch: 9.030420303344727
+homes:
+  kevin:
+    world: ab110033-df51-4e6e-b68a-8d03e362d34e
+    world-name: world
+    x: -421.2014448877571
+    y: 63.0
+    z: 36.60431405364996
+    yaw: -39.77032470703125
+    pitch: 5.989255905151367
